@@ -1,6 +1,6 @@
  
   
-  {
+  [
     {
       "image":"https://image.freepik.com/free-photo/mand-holding-cup_1258-340.jpg",
       "name":"Carlos",
@@ -121,4 +121,4 @@
       "phone":"0992664520",
       "email":"practica20@hotmail.com"
     }
-  }
+  ]
